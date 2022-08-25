@@ -5,8 +5,7 @@ import Student from './Student';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <Student/>
+    <Student />
   </React.StrictMode>,
   document.getElementById('root')
 );
